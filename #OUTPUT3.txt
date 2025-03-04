@@ -1,0 +1,62 @@
+#OUTPUT
+Expense Tracker Menu
+1. Add Expense
+2. View Expenses
+3. View Monthly Summary
+4. View Category Summary
+5. Exit
+Enter choice: 1
+Enter amount: 20000
+Enter description: market
+Enter category: fruit
+
+Expense Tracker Menu
+1. Add Expense
+2. View Expenses
+3. View Monthly Summary
+4. View Category Summary
+5. Exit
+Enter choice: 1
+Enter amount: 30000
+Enter description: market
+Enter category: vegetable
+
+Expense Tracker Menu
+1. Add Expense
+2. View Expenses
+3. View Monthly Summary
+4. View Category Summary
+5. Exit
+Enter choice: 2
+Amount: 20000.0 | Description: market | Category: fruit
+Amount: 30000.0 | Description: market | Category: vegetable
+
+Expense Tracker Menu
+1. Add Expense
+2. View Expenses
+3. View Monthly Summary
+4. View Category Summary
+5. Exit
+Enter choice: 3
+Enter month (YYYY-MM): 2024-12
+Total for 2024-12: $0
+
+Expense Tracker Menu
+1. Add Expense
+2. View Expenses
+3. View Monthly Summary
+4. View Category Summary
+5. Exit
+Enter choice: 4
+Enter category: fruit
+Total for fruit: $20000.0
+
+Expense Tracker Menu
+1. Add Expense
+2. View Expenses
+3. View Monthly Summary
+4. View Category Summary
+5. Exit
+Enter choice: 5
+Exiting...
+PS C:\Users\Entertainment\OneDrive\Desktop\DAA>
